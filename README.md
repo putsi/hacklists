@@ -1,2 +1,2 @@
 # wordlist
-Wordlist partially from SecLists and partially with own items
+Wordlists gathered from various sources (e.g. Seclists).
